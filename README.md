@@ -49,20 +49,18 @@ Exploring advanced React patterns and improving UI performance optimization.
 
 ## Where to Find Me
 
-<a href="kellybytes.ca@gmail.com">
-  <img src="./images/envelope.svg" alt="Email" width="20px" /> Email
+<a href="mailto:kellybytes.ca@gmail.com">
+  <img src="./images/envelope.svg" alt="Email" height="24px" style="vertical-align: -4px;" /> Email
 </a>
 <br />
 <a href="https://kellybytes.netlify.app">
-  <img src="./images/k.svg" alt="Portfolio Website" width="20px" /> Portfolio Website
+  <img src="./images/k2.svg" alt="Portfolio Website" height="24px" style="vertical-align: -4px;" /> Portfolio Website
 </a>
 <br />
 <a href="https://linkedin.com/in/erikoiwashita">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="20px" /> LinkedIn
-  <img src="./images/linkedin.svg" alt="LinkedIn" width="20px" /> LinkedIn
+  <img src="./images/linkedin.svg" alt="LinkedIn" height="24px" style="vertical-align: -4px;" /> LinkedIn
 </a>
 <br />
 <a href="https://github.com/KellyBytes?tab=repositories">
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub Repos" width="20px" /> GitHub Repos
-  <img src="./images/github.svg" alt="GitHub Repos" width="20px" /> GitHub Repos
+  <img src="./images/github.svg" alt="GitHub Repos" height="24px" style="vertical-align: -4px;" /> GitHub Repos
 </a>
