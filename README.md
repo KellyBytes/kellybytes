@@ -1,14 +1,10 @@
 # Hi there👋
 
-I am **Kelly** living in Edmonton AB, Canada.  
-I am a self-taught Frontend Web Developer focused on crafting seamless digital experiences that balance functionality, efficiency and aesthetics.
-
-
-## About Me
-
+I am **Kelly** living in Edmonton AB, Canada. 
 I'm passionate about building accessible and user-friendly web applications.  
 I enjoy transforming complex ideas into intuitive interfaces and continuously improving my skills through hands-on projects.
 
+<br />
 
 ## Skills
 
@@ -32,6 +28,7 @@ I enjoy transforming complex ideas into intuitive interfaces and continuously im
 ![Firebase](https://skillicons.dev/icons?i=firebase "Firebase")
 ![Netlify](https://skillicons.dev/icons?i=netlify "Netlify")
 
+<br />
 
 ## Featured Projects
 
@@ -40,27 +37,19 @@ I enjoy transforming complex ideas into intuitive interfaces and continuously im
 - **News App** – Built with React and Google News API to search, read, and bookmark global articles.  
 🔗 More projects on my [Portfolio Website](https://kellybytes.netlify.app)
 
+<br />
 
 ## Current Focus
 
 Exploring advanced React patterns and improving UI performance optimization.
 
+<br />
+
 ---
 
 ## Where to Find Me
 
-<a href="mailto:kellybytes.ca@gmail.com">
-  <img src="./images/envelope.svg" alt="Email" height="24px" style="vertical-align: -4px;" /> Email
-</a>
-<br />
-<a href="https://kellybytes.netlify.app">
-  <img src="./images/k2.svg" alt="Portfolio Website" height="24px" style="vertical-align: -4px;" /> Portfolio Website
-</a>
-<br />
-<a href="https://linkedin.com/in/erikoiwashita">
-  <img src="./images/linkedin.svg" alt="LinkedIn" height="24px" style="vertical-align: -4px;" /> LinkedIn
-</a>
-<br />
-<a href="https://github.com/KellyBytes?tab=repositories">
-  <img src="./images/github.svg" alt="GitHub Repos" height="24px" style="vertical-align: -4px;" /> GitHub Repos
-</a>
+[![Email](https://img.shields.io/badge/Email-kellybytes.ca%40gmail.com-EA4335?logo=gmail&labelColor=1a1a1a)](mailto:kellybytes.ca@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-kellybytes.netlify.app-1abc9c?logo=netlify&labelColor=1a1a1a)](https://kellybytes.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-erikoiwashita-blue?logo=linkedin&labelColor=1a1a1a)](https://linkedin.com/in/erikoiwashita)
+[![GitHub](https://img.shields.io/badge/GitHub-kellybytes-181717?logo=github&labelColor=1a1a1a)](https://github.com/KellyBytes?tab=repositories)
