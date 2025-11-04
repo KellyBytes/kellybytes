@@ -50,17 +50,19 @@ Exploring advanced React patterns and improving UI performance optimization.
 ## Where to Find Me
 
 <a href="kellybytes.ca@gmail.com">
-  <img src="./images/email.png" alt="Email" width="20px" /> Email
+  <img src="./images/envelope.svg" alt="Email" width="20px" /> Email
 </a>
 <br />
 <a href="https://kellybytes.netlify.app">
-  <img src="./images/k.png" alt="Portfolio Website" width="20px" /> Portfolio Website
+  <img src="./images/k.svg" alt="Portfolio Website" width="20px" /> Portfolio Website
 </a>
 <br />
 <a href="https://linkedin.com/in/erikoiwashita">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="20px" /> LinkedIn
+  <img src="./images/linkedin.svg" alt="LinkedIn" width="20px" /> LinkedIn
 </a>
 <br />
 <a href="https://github.com/KellyBytes?tab=repositories">
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub Repos" width="20px" /> GitHub Repos
+  <img src="./images/github.svg" alt="GitHub Repos" width="20px" /> GitHub Repos
 </a>
