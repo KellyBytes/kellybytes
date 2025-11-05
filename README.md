@@ -1,8 +1,6 @@
 # Hi there👋
 
-I am **Kelly** living in Edmonton AB, Canada. 
-I'm passionate about building accessible and user-friendly web applications.  
-I enjoy transforming complex ideas into intuitive interfaces and continuously improving my skills through hands-on projects.
+I am **Kelly** living in Edmonton AB, Canada. I'm passionate about crafting accesible and engaging web experiences with precision and creativity. With a background in mechanical engineering and technical translation, I bring a unique analytical perspective to design and problem-solving. I'm committed not only to building interactive, visually engaging interfaces, but also to improving and debugging existing projects to enhance performance, accessibility, and overall user experience. I enjoy transforming complex ideas into intuitive interfaces and continuously improving my skills through hands-on projects.
 
 <br />
 
@@ -41,7 +39,7 @@ I enjoy transforming complex ideas into intuitive interfaces and continuously im
 
 ## Current Focus
 
-Exploring advanced React patterns and improving UI performance optimization.
+Exploring advanced React patterns and focusing on performance, accessibility, and continuous UI improvement.
 
 <br />
 
