@@ -1,25 +1,27 @@
-# Hi there👋
+# 👋 Hi, I'm Kelly
 
-I am **Kelly** living in Edmonton AB, Canada. I'm passionate about crafting accesible and engaging web experiences with precision and creativity. With a background in mechanical engineering and technical translation, I bring a unique analytical perspective to design and problem-solving. I'm committed not only to building interactive, visually engaging interfaces, but also to improving and debugging existing projects to enhance performance, accessibility, and overall user experience. I enjoy transforming complex ideas into intuitive interfaces and continuously improving my skills through hands-on projects.
+I'm passionate about crafting accessible, engaging web experiences with precision and creativity.
+With a background in mechanical engineering and technical translation, I bring a unique analytical perspective to design and problem-solving.
+
+I'm experienced with modern front-end technologies and frameworks, and I'm currently expanding into full-stack development to better understand end-to-end workflows. 
+I'm a quick learner and adaptable self-starter, always focused on building intuitive interfaces, adding new features, and improving existing projects through debugging, optimization, and accessibility enhancements.
+
+I enjoy transforming complex ideas into intuitive, user-centered interfaces and continuously sharpening my skills through hands-on projects.
 
 <br />
 
 ## Skills
 
-### Programming Languages
 ![HTML5](https://skillicons.dev/icons?i=html "HTML5")
 ![CSS3](https://skillicons.dev/icons?i=css "CSS3")
 ![JavaScript](https://skillicons.dev/icons?i=js "JavaScript")
 ![TypeScript](https://skillicons.dev/icons?i=ts "TypeScript")
-
-### Libraries & Frameworks
 ![React](https://skillicons.dev/icons?i=react "React")
+![Next.js](https://skillicons.dev/icons?i=nextjs "Next.js")
 ![Node.js](https://skillicons.dev/icons?i=nodejs "Node.js")
 ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind "Tailwind CSS")
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap "Bootstrap")
 ![Styled-Components](https://skillicons.dev/icons?i=styledcomponents "Styled-Components")
-
-### Tools & Platforms
 ![Git](https://skillicons.dev/icons?i=git "Git")
 ![GitHub](https://skillicons.dev/icons?i=github "GitHub")
 ![Figma](https://skillicons.dev/icons?i=figma "Figma")
@@ -30,16 +32,17 @@ I am **Kelly** living in Edmonton AB, Canada. I'm passionate about crafting acce
 
 ## Featured Projects
 
-- **Reading Tracker** – A React-based app to manage reading progress with local storage and progress visualization.
-- **AI Chat Bot** – Built with React and OpenAI API to interact with an AI model and manage multiple chat sessions.
-- **News App** – Built with React and Google News API to search, read, and bookmark global articles.  
-🔗 More projects on my [Portfolio Website](https://kellybytes.netlify.app)
+- [**Reading Tracker**](https://kb-bookworm.netlify.app "Laungh Bookworm App") – A React-based app to manage reading progress with local storage and progress visualization.
+- [**AI Chat Bot**](https://kb-ai-chat-bot.netlify.app "Launch AI Chat Bot") – Built with React and OpenAI API to interact with an AI model and manage multiple chat sessions.
+- [**News App**](https://kb-news-app.netlify.app "Launch News App") – Built with React and Google News API to search, read, and bookmark global articles.  
+🔗 More projects on my [Portfolio Website](https://kellybytes.netlify.app) <br/>
+🔗 Codes on my [GitHub Repos](https://github.com/KellyBytes?tab=repositories)
 
 <br />
 
 ## Current Focus
 
-Exploring advanced React patterns and focusing on performance, accessibility, and continuous UI improvement.
+Exploring advanced React patterns, deepening my skills in TypeScript and Next.js, and focusing on performance, accessibility, and continuous UI improvement with a full-stack mindset.
 
 <br />
 
@@ -47,7 +50,7 @@ Exploring advanced React patterns and focusing on performance, accessibility, an
 
 ## Where to Find Me
 
-[![Email](https://img.shields.io/badge/Email-kellybytes.ca%40gmail.com-EA4335?logo=gmail&labelColor=1a1a1a)](mailto:kellybytes.ca@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-kellybytes.netlify.app-1abc9c?logo=netlify&labelColor=1a1a1a)](https://kellybytes.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-erikoiwashita-blue?logo=linkedin&labelColor=1a1a1a)](https://linkedin.com/in/erikoiwashita)
 [![GitHub](https://img.shields.io/badge/GitHub-kellybytes-181717?logo=github&labelColor=1a1a1a)](https://github.com/KellyBytes?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-erikoiwashita-blue?logo=linkedin&labelColor=1a1a1a)](https://linkedin.com/in/erikoiwashita)
+[![Email](https://img.shields.io/badge/Email-kellybytes.ca%40gmail.com-EA4335?logo=gmail&labelColor=1a1a1a)](mailto:kellybytes.ca@gmail.com)
