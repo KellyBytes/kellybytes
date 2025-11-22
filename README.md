@@ -27,11 +27,13 @@ I enjoy transforming complex ideas into intuitive, user-centered interfaces and 
 ![Figma](https://skillicons.dev/icons?i=figma "Figma")
 ![Firebase](https://skillicons.dev/icons?i=firebase "Firebase")
 ![Netlify](https://skillicons.dev/icons?i=netlify "Netlify")
+![AMS](https://skillicons.dev/icons?i=aws "AWS")
 
 <br />
 
 ## Featured Projects
 
+- [**E-commerce App**](https://main.d3vz3aed5z659y.amplifyapp.com/ "Laungh KellyStore App") – A full-stack e-commerce app selling PDF productivity templates and hand-drawn icons, with Stripe Test Mode checkout and responsive design.
 - [**Reading Tracker**](https://kb-bookworm.netlify.app "Laungh Bookworm App") – A React-based app to manage reading progress with local storage and progress visualization.
 - [**AI Chat Bot**](https://kb-ai-chat-bot.netlify.app "Launch AI Chat Bot") – Built with React and OpenAI API to interact with an AI model and manage multiple chat sessions.
 - [**News App**](https://kb-news-app.netlify.app "Launch News App") – Built with React and Google News API to search, read, and bookmark global articles.  
