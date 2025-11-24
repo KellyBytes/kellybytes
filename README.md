@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Kelly
 
 I'm passionate about crafting accessible, engaging web experiences with precision and creativity.
-With a background in mechanical engineering and technical translation, I bring a unique analytical perspective to design and problem-solving.
+With a background in mechanical engineering and technical translation, I bring a unique analytical and detail-oriented approach to problem-solving and design.
 
 I'm experienced with modern front-end technologies and frameworks, and I'm currently expanding into full-stack development to better understand end-to-end workflows. 
 I'm a quick learner and adaptable self-starter, always focused on building intuitive interfaces, adding new features, and improving existing projects through debugging, optimization, and accessibility enhancements.
