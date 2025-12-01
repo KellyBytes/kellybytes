@@ -34,10 +34,11 @@ I enjoy transforming complex ideas into intuitive, user-centered interfaces and 
 ## Featured Projects
 
 - [**E-commerce App**](https://main.d3vz3aed5z659y.amplifyapp.com/ "Laungh KellyStore App") – A full-stack e-commerce app selling PDF productivity templates and hand-drawn icons, with Stripe Test Mode checkout and responsive design.
-- [**Reading Tracker**](https://kb-bookworm.netlify.app "Laungh Bookworm App") – A React-based app to manage reading progress with local storage and progress visualization.
-- [**AI Chat Bot**](https://kb-ai-chat-bot.netlify.app "Launch AI Chat Bot") – Built with React and OpenAI API to interact with an AI model and manage multiple chat sessions.
-- [**News App**](https://kb-news-app.netlify.app "Launch News App") – Built with React and Google News API to search, read, and bookmark global articles.  
-🔗 More projects on my [Portfolio Website](https://kellybytes.netlify.app) <br/>
+- [**Reading Tracker**](https://bookworm.kellybytes.dev "Laungh Bookworm App") – A React-based app to manage reading progress with local storage and progress visualization.
+- [**News App**](https://news-app.kellybytes.dev "Launch News App") – Built with React and Google News API to search, read, and bookmark global articles.  
+- [**AI Chat Bot**](https://chatbot.kellybytes.dev "Launch AI Chat Bot") – Built with React and OpenAI API to interact with an AI model and manage multiple chat sessions.
+
+🔗 More projects on my [Portfolio Website](https://kellybytes.dev) <br/>
 🔗 Codes on my [GitHub Repos](https://github.com/KellyBytes?tab=repositories)
 
 <br />
@@ -52,7 +53,7 @@ Exploring advanced React patterns, deepening my skills in TypeScript and Next.js
 
 ## Where to Find Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-kellybytes.netlify.app-1abc9c?logo=netlify&labelColor=1a1a1a)](https://kellybytes.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-kellybytes.dev-1abc9c?logo=netlify&labelColor=1a1a1a)](https://kellybytes.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-kellybytes-181717?logo=github&labelColor=1a1a1a)](https://github.com/KellyBytes?tab=repositories)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-erikoiwashita-blue?logo=linkedin&labelColor=1a1a1a)](https://linkedin.com/in/erikoiwashita)
-[![Email](https://img.shields.io/badge/Email-kellybytes.ca%40gmail.com-EA4335?logo=gmail&labelColor=1a1a1a)](mailto:kellybytes.ca@gmail.com)
+[![Email](https://img.shields.io/badge/Email-kelly%40kellybytes.dev-EA4335?logo=gmail&labelColor=1a1a1a)](mailto:kelly@kellybytes.dev)
