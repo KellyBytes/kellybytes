@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kelly
 
-I'm an aspiring full-stack web developer with a background in mechanical engineering and technical translation. I build accessible, user-centered web applications and bring a strong analytical, systems-thinking mindset to solving complex problems.
+I'm a full-stack web developer with a background in mechanical engineering and technical translation. I build accessible, user-centered web applications and bring a strong analytical, systems-thinking mindset to solving complex problems.
 
 I focus on building production-ready, end-to-end applications using modern full-stack technologies. I enjoy designing clean architectures, implementing secure APIs, and continuously improving code quality through refactoring and iteration.
 
@@ -43,9 +43,9 @@ A production-ready full-stack real estate marketplace built with **Next.js 16 (A
 - Secure authentication with Google OAuth
 - Server Actions for data mutations
 - Property CRUD with image uploads
-- Real-time-style messaging between users
+- Inquiry messaging with unread alerts
 - Protected routes and authorization logic
-- Responsive, accesible UI with Tailwind CSS
+- Responsive, accessible UI with Tailwind CSS
 
 This project focuses on full-stack architecture, seture handling, and scalable application structure.
 <br />
