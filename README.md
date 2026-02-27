@@ -1,14 +1,12 @@
 # 👋 Hi, I'm Kelly
 
-I'm an aspiring full-stack web developer with a background in mechanical engineering and technical translation. I build accessible, user-centered web applications and bring a strong analytical and detail-oriented approach to problem-solving.
+I'm an aspiring full-stack web developer with a background in mechanical engineering and technical translation. I build accessible, user-centered web applications and bring a strong analytical, systems-thinking mindset to solving complex problems.
 
-I primarily work with React and Next.js on the frontend and Node.js-based APIs and databases on the backend. I focus on improving existing applications through feature development, debugging, refactoring, and performance and accessibility enhancements, with an emphasis on understanding real-world development workflows.
-
-I enjoy iterating on projects, shipping incremental improvements, and continuously strengthening my skills by building practical, end-to-end web applications.
+I focus on building production-ready, end-to-end applications using modern full-stack technologies. I enjoy designing clean architectures, implementing secure APIs, and continuously improving code quality through refactoring and iteration.
 
 <br />
 
-## Skills
+## Tech Stack
 ### Frontend
 ![HTML5](https://skillicons.dev/icons?i=html "HTML5")
 ![CSS3](https://skillicons.dev/icons?i=css "CSS3")
@@ -37,22 +35,59 @@ I enjoy iterating on projects, shipping incremental improvements, and continuous
 <br />
 
 ## Featured Projects
+### Real Estate Marketplace (Next.js Full-Stack)
+[**Property Pulse**](https://property-pulse.kellybytes.dev/ "Launch Property Pulse")➚<br />
+A production-ready full-stack real estate marketplace built with **Next.js 16 (App Router), React 19, and MongoDB**.
 
-- [**Note Taking App**](https://mern-thinkboard-51ns.onrender.com/ "Launch ThinkBoard") - A full-stack MERN application for creating and managing notes.
-- [**E-commerce App**](https://main.d3vz3aed5z659y.amplifyapp.com/ "Laungh KellyStore App") – A full-stack e-commerce app selling PDF productivity templates and hand-drawn icons, with Stripe Test Mode checkout and responsive design.
-- [**Reading Tracker**](https://bookworm.kellybytes.dev "Laungh Bookworm App") – A React-based app to manage reading progress with local storage and progress visualization.
-- [**News App**](https://news-app.kellybytes.dev "Launch News App") – Built with React and Google News API to search, read, and bookmark global articles.
+#### Key Features:
+- Secure authentication with Google OAuth
+- Server Actions for data mutations
+- Property CRUD with image uploads
+- Real-time-style messaging between users
+- Protected routes and authorization logic
+- Responsive, accesible UI with Tailwind CSS
 
-🔗 More projects on my [Portfolio Website](https://kellybytes.dev) <br/>
-🔗 Codes on my [GitHub Repos](https://github.com/KellyBytes?tab=repositories)
+This project focuses on full-stack architecture, seture handling, and scalable application structure.
+<br />
+<br />
 
+### E-commerce App (Next.js + Stripe)
+[**KellyStore**](https://main.d3vz3aed5z659y.amplifyapp.com/ "Laungh KellyStore App")➚<br />
+A full-stack e-commerce application selling digital products, built with Next.js and Stripe (Test Mode).
+
+- Product management
+- Cart and checkout flow
+- Stripe integration
+- Order handling and user authentication
+<br />
+
+### Note Taking App
+[**ThinkBoard**](https://mern-thinkboard-51ns.onrender.com/ "Launch ThinkBoard")➚<br />
+A full-stack MERN application for creating and managing notes with CRUD functionality and authentication.
+<br />
+<br />
+
+### Readking Tracker
+[**Reading Tracker**](https://bookworm.kellybytes.dev "Laungh Bookworm App")➚<br />
+A React-based application for tracking reading progress with local storage and progress visualization.
+<br />
+<br />
+
+### News App
+[**News App**](https://news-app.kellybytes.dev "Launch News App")➚<br />
+A React-based news reader using the Google News API to search, read, and bookmark global articles.
+<br />
+<br />
+
+🔗 More projects on my [Portfolio Website](https://kellybytes.dev)➚ <br/>
+🔗 Codes on my [GitHub Repositories](https://github.com/KellyBytes?tab=repositories)➚<br />
 <br />
 
 ## Currently focusing on:
-- Building and iterating on full-stack applications with Next.js and Node.js
-- Improving code quality through TypeScript, refactoring, and debugging
-- Deploying production-ready apps using modern cloud and hosting platforms
-
+- Designing and building RESTful APIs with Node.js and Express
+- Strengthening TypeScript for scalable backend and frontend architecture
+- Building a full-stack e-commerce application with Next.js + TypeScript
+- Writing cleaner, more maintainable, production-level code
 <br />
 
 ---
