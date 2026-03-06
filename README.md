@@ -35,47 +35,38 @@ I focus on building production-ready, end-to-end applications using modern full-
 <br />
 
 ## Featured Projects
+
 ### Real Estate Marketplace (Next.js Full-Stack)
 [**Property Pulse**](https://property-pulse.kellybytes.dev/ "Launch Property Pulse")➚<br />
-A production-ready full-stack real estate marketplace built with **Next.js 16 (App Router), React 19, and MongoDB**.
-
-#### Key Features:
-- Secure authentication with Google OAuth
-- Server Actions for data mutations
-- Property CRUD with image uploads
-- Inquiry messaging with unread alerts
-- Protected routes and authorization logic
-- Responsive, accessible UI with Tailwind CSS
-
-This project focuses on full-stack architecture, seture handling, and scalable application structure.
-<br />
+Full-stack real estate marketplace built with **Next.js 16, React 19, and MongoDB**.  
+Features secure Google OAuth login, property CRUD with image uploads, and responsive UI.
 <br />
 
 ### E-commerce App (Next.js + Stripe)
-[**KellyStore**](https://main.d3vz3aed5z659y.amplifyapp.com/ "Laungh KellyStore App")➚<br />
-A full-stack e-commerce application selling digital products, built with Next.js and Stripe (Test Mode).
+[**KellyStore**](https://main.d3vz3aed5z659y.amplifyapp.com/ "Launch KellyStore App")➚<br />
+Full-stack e-commerce app selling digital products using **Next.js** and **Stripe (Test Mode)**.  
+Includes product management, cart & checkout, Stripe integration, and user authentication.
+<br />
 
-- Product management
-- Cart and checkout flow
-- Stripe integration
-- Order handling and user authentication
+### ProjectHub API (Node.js + Express)
+[**ProjectHub API**](https://projecthub-api-bnd.onrender.com/ "Launch ProjectHub API Swagger")➚<br />
+RESTful API for managing team projects with **JWT auth, role-based access, and CRUD operations**.  
+Swagger docs, rate limiting, and automated testing with Jest + Supertest included.
 <br />
 
 ### Note Taking App
 [**ThinkBoard**](https://mern-thinkboard-51ns.onrender.com/ "Launch ThinkBoard")➚<br />
-A full-stack MERN application for creating and managing notes with CRUD functionality and authentication.
-<br />
+MERN app for creating and managing notes with authentication and CRUD functionality.
 <br />
 
-### Readking Tracker
-[**Reading Tracker**](https://bookworm.kellybytes.dev "Laungh Bookworm App")➚<br />
-A React-based application for tracking reading progress with local storage and progress visualization.
-<br />
+### Reading Tracker
+[**Reading Tracker**](https://bookworm.kellybytes.dev "Launch Bookworm App")➚<br />
+React app to track reading progress with local storage and visualization.
 <br />
 
 ### News App
 [**News App**](https://news-app.kellybytes.dev "Launch News App")➚<br />
-A React-based news reader using the Google News API to search, read, and bookmark global articles.
+React-based news reader using Google News API to search, read, and bookmark articles.
 <br />
 <br />
 
