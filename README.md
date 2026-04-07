@@ -20,14 +20,17 @@ I focus on building production-ready, end-to-end applications using modern full-
 ![Node.js](https://skillicons.dev/icons?i=nodejs "Node.js")
 ![Express.js](https://skillicons.dev/icons?i=express "Express")
 ![MongoDB](https://skillicons.dev/icons?i=mongodb "MongoDB")
+![Postgres](https://skillicons.dev/icons?i=postgres "Postgres")
+![Prisma](https://skillicons.dev/icons?i=prisma "prisma")
 ![Firebase](https://skillicons.dev/icons?i=firebase "Firebase")
 ![Appwrite](https://skillicons.dev/icons?i=appwrite "Appwrite")
 ![Python](https://skillicons.dev/icons?i=py "Python")
 
 ### Cloud, Tools & Deployment
-![AMS](https://skillicons.dev/icons?i=aws "AWS")
 ![Vercel](https://skillicons.dev/icons?i=vercel "Vercel")
 ![Netlify](https://skillicons.dev/icons?i=netlify "Netlify")
+![AMS](https://skillicons.dev/icons?i=aws "AWS")
+![Jest](https://skillicons.dev/icons?i=jest "Jest")
 ![Git](https://skillicons.dev/icons?i=git "Git")
 ![GitHub](https://skillicons.dev/icons?i=github "GitHub")
 ![Figma](https://skillicons.dev/icons?i=figma "Figma")
@@ -42,10 +45,10 @@ Full-stack real estate marketplace built with **Next.js 16, React 19, and MongoD
 Features secure Google OAuth login, property CRUD with image uploads, and responsive UI.
 <br />
 
-### E-commerce App (Next.js + Stripe)
-[**KellyStore**](https://main.d3vz3aed5z659y.amplifyapp.com/ "Launch KellyStore App")➚<br />
-Full-stack e-commerce app selling digital products using **Next.js** and **Stripe (Test Mode)**.  
-Includes product management, cart & checkout, Stripe integration, and user authentication.
+### E-commerce Platform (Next.js Full-Stack)
+[**KBStore**](https://kbstore.kellybytes.dev "Launch KBStore")➚<br />
+Full-stack e-commerce platform built with **Next.js App Router, Prisma, and PostgreSQL**.  
+Includes admin dashboard, Stripe & PayPal payments, authentication, reviews, and interactive checkout.
 <br />
 
 ### ProjectHub API (Node.js + Express)
@@ -75,10 +78,11 @@ React-based news reader using Google News API to search, read, and bookmark arti
 <br />
 
 ## Currently focusing on:
-- Designing and building RESTful APIs with Node.js and Express
-- Strengthening TypeScript for scalable backend and frontend architecture
-- Building a full-stack e-commerce application with Next.js + TypeScript
-- Writing cleaner, more maintainable, production-level code
+- Building production-ready full-stack applications with Next.js
+- Strengthening TypeScript across frontend and backend
+- Designing scalable database schemas with Prisma
+- Implementing secure authentication and payment systems
+- Writing cleaner, more maintainable production-level code
 <br />
 
 ---
