@@ -52,7 +52,7 @@ Includes admin dashboard, Stripe & PayPal payments, authentication, reviews, and
 <br />
 
 ### ProjectHub API (Node.js + Express)
-[**ProjectHub API**](https://projecthub-api-bnd.onrender.com/ "Launch ProjectHub API Swagger")➚<br />
+[**ProjectHub API**](https://projecthub-api-bnd.onrender.com/api-docs "Launch ProjectHub API Swagger")➚<br />
 RESTful API for managing team projects with **JWT auth, role-based access, and CRUD operations**.  
 Swagger docs, rate limiting, and automated testing with Jest + Supertest included.
 <br />
