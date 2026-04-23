@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Kelly
+### Full-Stack Developer | Edmonton, AB, Canada
 
 I'm a full-stack web developer with a background in mechanical engineering and technical translation. I build accessible, user-centered web applications and bring a strong analytical, systems-thinking mindset to solving complex problems.
 
@@ -24,7 +25,6 @@ I focus on building production-ready, end-to-end applications using modern full-
 ![Prisma](https://skillicons.dev/icons?i=prisma "prisma")
 ![Firebase](https://skillicons.dev/icons?i=firebase "Firebase")
 ![Appwrite](https://skillicons.dev/icons?i=appwrite "Appwrite")
-![Python](https://skillicons.dev/icons?i=py "Python")
 
 ### Cloud, Tools & Deployment
 ![Vercel](https://skillicons.dev/icons?i=vercel "Vercel")
@@ -64,7 +64,7 @@ MERN app for creating and managing notes with authentication and CRUD functional
 
 ### Reading Tracker
 [**Reading Tracker**](https://bookworm.kellybytes.dev "Launch Bookworm App")➚<br />
-React app to track reading progress with local storage and visualization.
+React app to track reading progress with real-time calculations, Google Books API integration, and persistent local storage.
 <br />
 
 ### News App
@@ -78,11 +78,9 @@ React-based news reader using Google News API to search, read, and bookmark arti
 <br />
 
 ## Currently focusing on:
-- Building production-ready full-stack applications with Next.js
-- Strengthening TypeScript across frontend and backend
-- Designing scalable database schemas with Prisma
-- Implementing secure authentication and payment systems
-- Writing cleaner, more maintainable production-level code
+- Building and improving full-stack applications with Next.js and TypeScript
+- Learning to design scalable database schemas and secure authentication systems
+- Writing production-level code with a focus on maintainability and performance
 <br />
 
 ---
