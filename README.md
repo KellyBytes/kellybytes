@@ -57,9 +57,10 @@ RESTful API for managing team projects with **JWT auth, role-based access, and C
 Swagger docs, rate limiting, and automated testing with Jest + Supertest included.
 <br />
 
-### Note Taking App
-[**ThinkBoard**](https://mern-thinkboard-51ns.onrender.com/ "Launch ThinkBoard")➚<br />
-MERN app for creating and managing notes with authentication and CRUD functionality.
+### Content Platform (Next.js + Contentful CMS)
+[**Kelly's Notes**](https://notes.kellybytes.dev/ "Launch Kelly's Notes")➚<br />
+Full-stack content platform built with **Next.js App Router, React 19, and Contentful CMS**.  
+Features dual rendering pipelines (Rich Text & Markdown), Draft Mode preview, and command-palette search.
 <br />
 
 ### Reading Tracker
